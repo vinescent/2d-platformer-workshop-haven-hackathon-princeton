@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://gex6xp67u3e4"
+path="res://.godot/imported/3. Darkwood Path.ogg-1d5b228abc100353ad30faecae99df72.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/audio/music/medieval_tracks/Loops/ogg/3. Darkwood Path.ogg"
+dest_files=["res://.godot/imported/3. Darkwood Path.ogg-1d5b228abc100353ad30faecae99df72.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bvgalj6lk84ta"
+path="res://.godot/imported/1. Moonspire.wav-b32e51715e00dbf0a1f718c9263bd9c5.sample"
+
+[deps]
+
+source_file="res://10 Medieval Tracks Music pack/Loops/wav/1. Moonspire.wav"
+dest_files=["res://.godot/imported/1. Moonspire.wav-b32e51715e00dbf0a1f718c9263bd9c5.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

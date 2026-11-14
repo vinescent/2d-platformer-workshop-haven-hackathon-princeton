@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ddhq0fyrpryjl"
+path="res://.godot/imported/2. Winds of Valor.wav-f87d20f79c490106d27d7327bcc6f3e9.sample"
+
+[deps]
+
+source_file="res://10 Medieval Tracks Music pack/Loops/wav/2. Winds of Valor.wav"
+dest_files=["res://.godot/imported/2. Winds of Valor.wav-f87d20f79c490106d27d7327bcc6f3e9.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

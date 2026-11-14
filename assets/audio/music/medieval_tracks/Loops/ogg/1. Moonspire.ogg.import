@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b7vc3fndsqjow"
+path="res://.godot/imported/1. Moonspire.ogg-57c5aba48fa2d3e599b7e549dd0025d2.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/audio/music/medieval_tracks/Loops/ogg/1. Moonspire.ogg"
+dest_files=["res://.godot/imported/1. Moonspire.ogg-57c5aba48fa2d3e599b7e549dd0025d2.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

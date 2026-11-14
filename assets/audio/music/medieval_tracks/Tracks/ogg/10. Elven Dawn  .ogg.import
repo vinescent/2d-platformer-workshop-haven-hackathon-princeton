@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cte34m5s73ew8"
+path="res://.godot/imported/10. Elven Dawn  .ogg-638bd09c72ec538ffe8b94291a876e43.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/audio/music/medieval_tracks/Tracks/ogg/10. Elven Dawn  .ogg"
+dest_files=["res://.godot/imported/10. Elven Dawn  .ogg-638bd09c72ec538ffe8b94291a876e43.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

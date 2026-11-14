@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dolxmvmrcnw7m"
+path="res://.godot/imported/7. Mystic Grove.mp3-b614e6a57642e66a857f9f6cf61bf403.mp3str"
+
+[deps]
+
+source_file="res://10 Medieval Tracks Music pack/Loops/mp3/7. Mystic Grove.mp3"
+dest_files=["res://.godot/imported/7. Mystic Grove.mp3-b614e6a57642e66a857f9f6cf61bf403.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

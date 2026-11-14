@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cpbho0pu5vgco"
+path="res://.godot/imported/5. Emberlight .ogg-12cf4ff4ff0b69b1e3fc342838cef682.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/audio/music/medieval_tracks/Tracks/ogg/5. Emberlight .ogg"
+dest_files=["res://.godot/imported/5. Emberlight .ogg-12cf4ff4ff0b69b1e3fc342838cef682.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
